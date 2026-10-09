@@ -23,7 +23,6 @@ Copy this template and replace the placeholder details with your own information
 - **GitHub Username:** supunrworks
 - **Role:** Student / Developer
 - **Interests:** Web Development, Programming
-- **About Me:** Write a short introduction about yourself.
 - **What I Want to Learn:** Git, GitHub, Branching, and Pull Requests.
 - **GitHub Profile:** https://github.com/supunrworks
 
