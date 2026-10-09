@@ -19,16 +19,13 @@ This file is a place for workshop participants to introduce themselves while pra
 Copy this template and replace the placeholder details with your own information.
 
 ```markdown
-## 👤 Your Full Name
-
-- **GitHub Username:** your-username
+## 👤 Supun Rashmika
+- **GitHub Username:** supunrworks
 - **Role:** Student / Developer
-- **University:** Your University Name
-- **Interests:** Web Development, Programming, Open Source
+- **Interests:** Web Development, Programming
 - **About Me:** Write a short introduction about yourself.
 - **What I Want to Learn:** Git, GitHub, Branching, and Pull Requests.
-- **GitHub Profile:** https://github.com/your-username
-```
+- **GitHub Profile:** https://github.com/supunrworks
 
 ---
 
